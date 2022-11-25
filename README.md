@@ -1,1 +1,1 @@
-# random-quotes
+# thed-rs.github.io/random-quotes
